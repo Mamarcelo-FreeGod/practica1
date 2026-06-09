@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.titulo_h1 {
+    overflow: hidden;
+}
+
+.parrafo_P{
+    padding: 10px;
+    height: 200px;
+    text-align: center;
+}
+
+.button{
+    padding: 100px;
+    text-align: center;
+}
